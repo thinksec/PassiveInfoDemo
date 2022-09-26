@@ -1,0 +1,6 @@
+手机号: 13456789999
+
+mail: test@qq.com, test2@163.com
+
+password: abcdefg
+password="000123"
