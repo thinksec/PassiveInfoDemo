@@ -1,0 +1,5 @@
+repos:
+-   repo: D:\my_github\HunterInfo
+    rev: v1.0
+    hooks:
+    -   id: hunter-info
