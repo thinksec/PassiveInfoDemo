@@ -1,5 +1,5 @@
 repos:
--   repo: D:\my_github\HunterInfo
+-   repo: git@gitee.com:thinksec/HunterInfo.git
     rev: v1.0
     hooks:
     -   id: hunter-info
